@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/shgtkshruch/stream-adventure",
   "devDependencies": {
+    "split": "^0.3.0",
     "through": "^2.3.4"
   }
 }
