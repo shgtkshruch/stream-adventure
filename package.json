@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shgtkshruch/stream-adventure/issues"
   },
-  "homepage": "https://github.com/shgtkshruch/stream-adventure"
+  "homepage": "https://github.com/shgtkshruch/stream-adventure",
+  "devDependencies": {
+    "through": "^2.3.4"
+  }
 }
